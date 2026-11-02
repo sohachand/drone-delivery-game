@@ -1,0 +1,27 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+*.app/
+*.zip
+mono_crash.*.json
+
+# IDE
+.vscode/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+
+# OS
+.DS_Store
+
+# Third-party asset (Unity Asset Store), import it yourself
+Assets/AllSkyFree/
+Assets/AllSkyFree.meta
